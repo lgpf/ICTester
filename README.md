@@ -1,5 +1,12 @@
 # ICTester
 
+## Version 3 (fork)
+
+A rewrite of the user interface and test engine for the same hardware, an extended
+and corrected chip database (389 entries), 8-pin support and a DRAM test for
+4164 / 41256 / 4464 / 44256. See [IC_Tester_v3/README.md](IC_Tester_v3/README.md).
+
+
 IC Tester for the classic CMOS and TLL ICs with Touch Display
 
 **Beware 5V ICs only!**
